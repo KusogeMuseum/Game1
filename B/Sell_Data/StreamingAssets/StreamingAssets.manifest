@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 280922629
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab
+      Dependencies:
+        Dependency_0: scripts
+        Dependency_1: sebgm
+        Dependency_2: sprites
+    Info_1:
+      Name: scenes
+      Dependencies:
+        Dependency_0: prefab
+        Dependency_1: scripts
+        Dependency_2: sebgm
+    Info_2:
+      Name: scripts
+      Dependencies: {}
+    Info_3:
+      Name: sebgm
+      Dependencies: {}
+    Info_4:
+      Name: sprites
+      Dependencies: {}
+    Info_5:
+      Name: true
+      Dependencies: {}

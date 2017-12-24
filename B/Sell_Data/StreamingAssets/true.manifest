@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3838766283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b19c1714bede7cfc1af185e73d00b35
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/As/AssetB/sebgm.manifest
+- Assets/As/AssetB/prefab.manifest
+- Assets/As/AssetB/AssetB.manifest
+- Assets/As/AssetB/scenes.manifest
+- Assets/As/AssetB/sprites.manifest
+- Assets/As/AssetB/scripts.manifest
+Dependencies: []

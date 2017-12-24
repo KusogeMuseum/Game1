@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3797252909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 379bc889cc6f8f9beb5432f38c11d3a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21f0dc8ebad690f009368069428e0a1a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/boss2.png
+- Assets/Sprites/explosion.png
+- Assets/Sprites/fighter4.png
+- Assets/Sprites/E2.png
+- Assets/Sprites/mssilr.png
+- Assets/Sprites/boss1.png
+- Assets/Sprites/enemy1.png
+- Assets/Sprites/sand.png
+- Assets/Sprites/Fire.png
+- Assets/Sprites/nonon.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1550767983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fc9ed873c5ef3467d1187d77cf0351b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/SEandMusic/nightmare.wav
+- Assets/SEandMusic/shoot2.wav
+- Assets/SEandMusic/deadend_long.wav
+- Assets/SEandMusic/white_noise2.wav
+- Assets/SEandMusic/pyo1.wav
+- Assets/SEandMusic/requiem1.wav
+- "Assets/SEandMusic/explosion1 - \u30B3\u30D4\u30FC.wav"
+Dependencies: []
